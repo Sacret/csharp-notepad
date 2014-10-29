@@ -1,0 +1,24 @@
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.blank.resources
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TextEditor.resources
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FindForm.resources
+E:\C# & Delphi\DB\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.About.resources
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.About.resources
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.blank.resources
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FindForm.resources
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TextEditor.resources
+E:\C# & Delphi\Программки^^\12 - (C#) Блокнот\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
